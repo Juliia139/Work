@@ -1,2 +1,5 @@
 totally different content to merge later
+<<<<<<< HEAD
 content to append
+=======
+>>>>>>> testNedashkovskaya1
